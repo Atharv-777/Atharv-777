@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-777&exclude_repo=github-readme-stats,Atharv-777.github.io" />
 
+<img align="left" alt="stats" src="https://skyline.github.com/atharv-777/2020"/>
