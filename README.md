@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 Connect with me
+<br>
 <img align="left" alt="Stats" href="https://twitter.com/AtharvBidwe" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 <img align="left" alt="Stats" href="https://www.linkedin.com/in/atharv-bidwe-2996631aa/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
