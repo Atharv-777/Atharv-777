@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 <br><br>
 
 ## Connect with me
-<img align="left" alt="Twitter" href="https://twitter.com/AtharvBidwe" src="icons/twitter.png" />
-<img align="left" alt="LinkedIn" href="https://www.linkedin.com/in/atharv-bidwe-2996631aa/" src="icons/linkedin.png" />
+<a href="https://twitter.com/AtharvBidwe"> <img align="left" alt="Twitter" src="icons/twitter.png" /></a>
+<a href="https://www.linkedin.com/in/atharv-bidwe-2996631aa/"> <img align="left" alt="LinkedIn" src="icons/linkedin.png" /></a>
 
 <br><br>
 ## Language & Tools
 <br>
 <img align="left" alt="Python" href="https://www.python.org/about/" src="icons/python.png" />
-<img align="left" alt="Git" href="" src="icons/git.png" />
+<img align="left" alt="Git" href="https://git-scm.com/doc" src="icons/git.png" />
 <img align="left" alt="Github" href="https://github.com/Atharv-777" src="icons/github.png" />
-<img align="left" alt="VSCode" href="" src="icons/vscode.png" />
+<img align="left" alt="VSCode" href="https://code.visualstudio.com/docs" src="icons/vscode.png" />
 
 <br><br>
 ## Stats
