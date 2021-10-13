@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: atharvbidwe11@gmail.com
 - ⚡ Fun fact: ...-->
 
-> 🌱 I’m currently learning Machine Learning
-> 👯 I’m looking to collaborate on ML projects
-> 💬 Ask me about Python
-> 😄 Pronouns: (He/His/Him)
+> 🌱 I’m currently learning Machine Learning<br>
+> 👯 I’m looking to collaborate on ML projects<br>
+> 💬 Ask me about Python<br>
+> 😄 Pronouns: (He/His/Him)<br>
 <br><br>
 
 ## Connect with me
