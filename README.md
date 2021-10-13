@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 <br><br>
 ## Language & Tools
 <br>
-<img align="left" alt="Stats" href="https://twitter.com/AtharvBidwe" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img align="left" alt="Stats" href="" src="icons/python.png" />
+<img align="left" alt="Stats" href="" src="icons/git.png" />
+<img align="left" alt="Stats" href="" src="icons/github.png" />
+<img align="left" alt="Stats" href="" src="icons/vscode.png" />
 
 <br><br>
 ## Stats
