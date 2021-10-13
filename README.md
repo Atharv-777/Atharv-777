@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <br><br>
 ## Language & Tools
 <br>
-<img align="left" alt="Python" href="https://www.python.org/about/" src="icons/python.png" />
-<img align="left" alt="Git" href="https://git-scm.com/doc" src="icons/git.png" />
-<img align="left" alt="Github" href="https://github.com/Atharv-777" src="icons/github.png" />
-<img align="left" alt="VSCode" href="https://code.visualstudio.com/docs" src="icons/vscode.png" />
+<a href="https://www.python.org/about/"> <img align="left" alt="Python"  src="icons/python.png" /> </a>
+<a href="https://git-scm.com/doc"> <img align="left" alt="Git"  src="icons/git.png" /> </a>
+<a href="https://github.com/Atharv-777"> <img align="left" alt="Github"  src="icons/github.png" /> </a>
+<a href="https://code.visualstudio.com/docs"> <img align="left" alt="VSCode"  src="icons/vscode.png" /> </a>
 
 <br><br>
 ## Stats
