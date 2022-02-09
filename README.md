@@ -8,13 +8,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: atharvbidwe11@gmail.com
 - ⚡ Fun fact: ...-->
+<div style="display:flex">
+  > 🌱 I’m currently learning Machine Learning<br>
+  > 👯 I’m looking to collaborate on ML projects<br>
+  > 💬 Ask me about Python<br>
+  > 😄 Pronouns: (He/His/Him)
 
-> 🌱 I’m currently learning Machine Learning<br>
-> 👯 I’m looking to collaborate on ML projects<br>
-> 💬 Ask me about Python<br>
-> 😄 Pronouns: (He/His/Him)
-
-<img align="left" alt="LinkedIn" src="icons/octocat.gif"/>
+  <img align="left" alt="LinkedIn" src="icons/octocat.gif"/>
+</div>
 <br><br>
 
 ## Connect with me
