@@ -14,13 +14,12 @@ Here are some ideas to get you started:
  > 😄 Pronouns: (He/His/Him)
 
  <img align="right" top="0" alt="LinkedIn" src="icons/octocat.gif"/> -->
- <ul align="left">
-      <li>🌱 I’m currently learning Machine Learning</li>
-      <li>👯 I’m looking to collaborate on ML projects</li>
-      <li>💬 Ask me about Python</li>
-      <li>😄 Pronouns: (He/His/Him)</li>
-</ul> 
 <img align="right" alt="git" src="icons/octocat.gif">
+
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on ML projects
+- 💬 Ask me about P
+- 😄 Pronouns: (He/His/Him)
   
 <br><br>
 
