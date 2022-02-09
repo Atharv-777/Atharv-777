@@ -20,11 +20,10 @@ Here are some ideas to get you started:
       <li>👯 I’m looking to collaborate on ML projects</li>
       <li>💬 Ask me about Python</li>
       <li>😄 Pronouns: (He/His/Him)</li>
-    </ul>
-    
-    <img alt="git" src="icons/octocat.gif">
- 
+    </ul> 
   </div>
+  
+   <img alt="git" src="icons/octocat.gif">
 <br><br>
 
 ## Connect with me
