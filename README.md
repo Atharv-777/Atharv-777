@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 <br><br>
 
 ## Connect with me
-<a href="https://twitter.com/AtharvBidwe"> <img align="left" alt="Twitter" src="icons/twitter.png" /></a>
+<a href="https://twitter.com/AtharvBidwe"><img align="left" alt="Twitter" src="icons/twitter.png" /> </a>
 <a href="https://www.linkedin.com/in/atharv-bidwe-2996631aa/"> <img align="left" alt="LinkedIn" src="icons/linkedin.png" /></a>
-
 <br><br>
 ## Language & Tools
 <br>
