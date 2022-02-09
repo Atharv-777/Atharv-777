@@ -13,7 +13,7 @@ Here are some ideas to get you started:
  > 💬 Ask me about Python<br>
  > 😄 Pronouns: (He/His/Him)
 
- <img align="right" alt="LinkedIn" src="icons/octocat.gif"/>
+ <img align="right" top="0" alt="LinkedIn" src="icons/octocat.gif"/>
 <br><br>
 
 ## Connect with me
