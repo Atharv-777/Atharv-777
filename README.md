@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python.
 - 😄 Pronouns: (He/His/Him).
   
-<br><br>
+<br>
 
 ## Connect with me
 <a href="https://twitter.com/AtharvBidwe"><img align="left" alt="Twitter" src="icons/twitter.png" style="width:40px; height:40px;"/> </a>
