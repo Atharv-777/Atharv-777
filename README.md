@@ -16,10 +16,11 @@ Here are some ideas to get you started:
  <img align="right" top="0" alt="LinkedIn" src="icons/octocat.gif"/> -->
 <img align="right" alt="git" src="icons/octocat.gif">
 
-- 🌱 I’m currently learning Machine Learning
+- 🎓 Bachelor of Engineering in Computer Science.
+- 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on ML projects
-- 💬 Ask me about P
-- 😄 Pronouns: (He/His/Him)
+- 💬 Ask me about Python.
+- 😄 Pronouns: (He/His/Him).
   
 <br><br>
 
