@@ -22,7 +22,7 @@ Here are some ideas to get you started:
       <li>😄 Pronouns: (He/His/Him)</li>
     </ul>
     
-    <img align="right" alt="git" src="icons/octocat.gif">
+    <img alt="git" src="icons/octocat.gif">
  
   </div>
 <br><br>
