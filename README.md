@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 > 👯 I’m looking to collaborate on ML projects<br>
 > 💬 Ask me about Python<br>
 > 😄 Pronouns: (He/His/Him)
+
+<img align="left" alt="LinkedIn" src="icons/octocat.gif"/>
 <br><br>
 
 ## Connect with me
