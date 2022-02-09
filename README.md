@@ -23,6 +23,7 @@ Here are some ideas to get you started:
     </ul>
     
     <img align="right" alt="git" src="icons/octocat.gif">
+ 
   </div>
 <br><br>
 
