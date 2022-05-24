@@ -13,7 +13,7 @@ Here are some ideas to get you started:
  > 😄 Pronouns: (He/His/Him)
 
  <img align="right" top="0" alt="LinkedIn" src="icons/octocat.gif"/> -->
-<img align="right" alt="git" src="icons/octocat.gif">
+<img align="right" top="0" alt="git" src="icons/octocat.gif">
 
 - 🔭 I’m currently working on Discord Bot
 - 🎓 Bachelor of Engineering in Computer Science.
