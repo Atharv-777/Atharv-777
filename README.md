@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ## Hey there :octocat:
 
-- 🔭 I’m currently working on Discord Bot
-- 🎓 Bachelor of Engineering in Computer Science.
-- 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking to collaborate on ML projects
-- 💬 Ask me about Python.
-- 😄 Pronouns: (He/His/Him).
+- 🔭 I’m currently working on **Crypbit**
+- 🎓 Bachelor of Engineering in **Computer Science**.
+- 🌱 I’m currently learning **Machine Learning**.
+- 👯 I’m looking to collaborate on **ML projects**.
+- 💬 Ask me about **ML Basics & Discord Bot**.
+- 😄 Pronouns: **(He/His/Him)**.
 
 <p align = "center">
   <a href="https://twitter.com/AtharvBidwe"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
