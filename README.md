@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hey there :octocat:
 
-- 🔭 I’m currently working on **Crypbit**
+- 🔭 I’m currently working on **Crypbit**, **ML Projects**
 - 🎓 Bachelor of Engineering in **Computer Science**.
 - 🌱 I’m currently learning **Machine Learning**.
 - 👯 I’m looking to collaborate on **ML projects**.
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/atharv-bidwe-2996631aa/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
   
-## Tech Stack
+## Tech Stack 🛠️
 
 ### Language
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/ubuntu-ffffff?style=for-the-badge&logo=ubuntu&logoColor=e63f02)
 
 
-## Stats
+## Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
 <p align="center">
     <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Atharv-777&show_icons=true&hide_border=true&theme=vue&bg_color=000000" />
     <img alt="Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv-777&theme=vue&background=000000"/>
